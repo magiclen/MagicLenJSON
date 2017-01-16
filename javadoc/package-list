@@ -1,0 +1,9 @@
+org.magiclen.gson
+org.magiclen.gson.annotations
+org.magiclen.gson.internal
+org.magiclen.gson.internal.bind
+org.magiclen.gson.internal.bind.util
+org.magiclen.gson.reflect
+org.magiclen.gson.stream
+org.magiclen.json
+org.magiclen.mson
